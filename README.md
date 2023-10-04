@@ -1,0 +1,3 @@
+# Text Editor Starter Code
+
+FIX DATABASE.JS AND INSTALL.JS IN CLIENT/JS
